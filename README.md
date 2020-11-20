@@ -5,5 +5,5 @@
 - [Download the Quantum Development Kit](https://www.microsoft.com/quantum)
 - [Libraries & samples](https://github.com/microsoft/quantum/)
 - [Quantum katas](https://github.com/microsoft/quantumkatas)
-- [Careers at Microsoft Quantum](https://aka.ms/quantum_careers)
-- [Microsoft Quantum labs](https://www.microsoft.com/quantum/microsoft-quantum-labs )
+- [Quantum internships (summer 2021)](https://careers.microsoft.com/us/en/search-results?keywords=%23Quantum%20Intern)
+- [Microsoft Quantum labs](https://www.microsoft.com/quantum/microsoft-quantum-labs)
